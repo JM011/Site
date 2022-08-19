@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.am {
+  text-decoration: underline;
+}
+
+.programmer {
+  font-size: 2.5rem;
+}
+
+.top-container {}
+
+h1 {
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
